@@ -1,3 +1,2 @@
-allow mediaserver serialno_prop:file read;
 allow mediaserver socket_device:sock_file write;
 qmux_socket(mediaserver)
